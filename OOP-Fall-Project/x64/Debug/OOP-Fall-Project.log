@@ -1,0 +1,452 @@
+﻿  i221045_i220882_main.cpp
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_player.h(13,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_player.h(26,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_player.h(26,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_player.h(27,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_player.h(27,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(14,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(49,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(49,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(50,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(50,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(60,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(60,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(61,18): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(68,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(68,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(69,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(86,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(86,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(87,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(97,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(97,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(98,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(108,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(108,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(109,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(118,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(118,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(119,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(134,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(134,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(135,20): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(145,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(145,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(146,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(155,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(155,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(156,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(165,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(165,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(166,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(185,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(185,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(186,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(229,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(229,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(230,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(284,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(284,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(285,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(294,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(294,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(295,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(304,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(304,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(305,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(314,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(314,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(315,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(333,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(333,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(334,20): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(343,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(343,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(344,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(352,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(352,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(353,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(362,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(362,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(363,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(386,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(386,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(387,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(397,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(397,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(398,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(416,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(416,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(417,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(429,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(429,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_enemy.h(430,20): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(42,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(42,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(43,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(43,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(71,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(71,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(73,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(73,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(93,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(93,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(100,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(100,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(107,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(107,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(127,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(127,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(129,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(129,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(157,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(157,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(159,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_food.h(159,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(111,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(111,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(116,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(116,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(122,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(122,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(136,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(142,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(149,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(156,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(169,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(175,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(185,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(191,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(198,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(205,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(213,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(221,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(268,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(324,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(324,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(338,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(338,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(352,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(352,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(365,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(365,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(2950,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(2973,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(2973,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(2984,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(2984,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(3012,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(3012,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(3023,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_game.h(3023,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_menu.h(15,27): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_menu.h(15,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_menu.h(42,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_menu.h(42,18): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_menu.h(80,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_menu.h(239,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_menu.h(239,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_menu.h(206,42): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_menu.h(208,49): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+C:\Users\Saad A\Downloads\oopProject1\oopProject1\i221045_i220882_menu.h(235,46): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file '../../../../Downloads/oopProject1/oopProject1/i221045_i220882_main.cpp')
+  
+  OOP-Fall-Project.vcxproj -> C:\Users\Saad A\source\repos\OOP-Fall-Project\x64\Debug\OOP-Fall-Project.exe
